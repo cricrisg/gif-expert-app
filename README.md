@@ -1,3 +1,12 @@
+# GifExpertApp
+
+## Descripción 
+---
+Proyecto sencillo desarrollado para aprender React. 
+
+## Url para ver el resultado
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
